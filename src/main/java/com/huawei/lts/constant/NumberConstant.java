@@ -1,4 +1,4 @@
-package com.huawei.lts.common.constant;
+package com.huawei.lts.constant;
 
 /**
  * 数字常量类
@@ -8,7 +8,7 @@ package com.huawei.lts.common.constant;
  */
 public interface NumberConstant {
     int ZERO = 0;
-    
+
     int ONE = 1;
 
     int TWO = 2;
