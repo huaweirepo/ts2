@@ -1,4 +1,4 @@
-package com.huawei.lts.constant;
+package com.huawei.lts.common.constant;
 
 /**
  * 数字常量类
